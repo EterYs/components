@@ -7,6 +7,12 @@
         "format": "zip"
     },
     {
+        "name": "dxvk-gplasync-v2.5.1-1",
+        "title": "2.5.1-1",
+        "version": "2.5.1-1-gplasync",
+        "uri": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.5.1-1.tar.gz"
+    },
+    {
         "name": "dxvk-gplasync-v2.5-1",
         "title": "2.5-1",
         "version": "2.5-1-gplasync",

@@ -6,6 +6,13 @@
         "uri": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/jobs/8724442478/artifacts/download?file_type=archive",
         "format": "zip"
     },
+     {
+        "name": "dxvk-gplasync-v2.5.2-1",
+        "title": "2.5.2-1",
+        "version": "2.5.2-1-gplasync",
+        "uri": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/jobs/8756351270/artifacts/download?file_type=archive",
+        "format": "zip"
+    },
     {
         "name": "dxvk-gplasync-v2.5.1-2",
         "title": "2.5.1-2",

@@ -1,30 +1,20 @@
 [
+     
+     {
+        "name": "wine-10.1-staging-tkg-amd64",
+        "title": "Wine-Staging-TkG 10.1",
+        "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.1/wine-10.1-staging-tkg-amd64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
      {
         "name": "wine-10.0-staging-tkg-amd64",
         "title": "Wine-Staging-TkG 10.0",
         "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.0/wine-10.0-staging-tkg-amd64.tar.xz",
-        "files": {
-            "wine": "bin/wine",
-            "wine64": "bin/wine64",
-            "wineserver": "bin/wineserver",
-            "wineboot": "bin/wineboot"
-        }
-    },
-    {
-        "name": "wine-10.0-rc4-staging-tkg-amd64",
-        "title": "Wine-Staging-TkG 10.0-RC4",
-        "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.0-rc4/wine-10.0-rc4-staging-tkg-amd64.tar.xz",
-        "files": {
-            "wine": "bin/wine",
-            "wine64": "bin/wine64",
-            "wineserver": "bin/wineserver",
-            "wineboot": "bin/wineboot"
-        }
-    },
-    {
-        "name": "wine-10.0-rc2-staging-tkg-amd64",
-        "title": "Wine-Staging-TkG 10.0-RC2",
-        "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.0-rc2/wine-10.0-rc2-staging-tkg-amd64.tar.xz",
         "files": {
             "wine": "bin/wine",
             "wine64": "bin/wine64",

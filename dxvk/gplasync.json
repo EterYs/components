@@ -1,5 +1,12 @@
 [
     {
+        "name": "dxvk-gplasync-test",
+        "title": "test",
+        "version": "test-gplasync",
+        "format": "zip",
+        "uri": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/jobs/10550552720/artifacts/download?file_type=archive"
+    },
+    {
         "name": "dxvk-gplasync-v2.6.1-1",
         "title": "2.6.1-1",
         "version": "2.6.1-1-gplasync",

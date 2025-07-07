@@ -1,5 +1,12 @@
 [
     {
+        "name": "dxvk-gplasync-v2.7-1",
+        "title": "2.7-1",
+        "version": "2.7-1-gplasync",
+        "format": "zip",
+        "uri": "https://gitlab.com/brittyazel/dxvk-gplasync/-/jobs/10596224636/artifacts/download?file_type=archive"
+    },
+    {
         "name": "dxvk-gplasync-v2.6-1",
         "title": "2.6-1",
         "version": "2.6-1-gplasync",

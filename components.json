@@ -42,6 +42,11 @@
             "title": "Vanilla"
         },
         {
+            "name": "gplall",
+            "title": "Gplall"
+        },
+        
+        {
             "name": "gplasync",
             "title": "Gplasync",
             "features": {

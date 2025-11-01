@@ -1,6 +1,6 @@
 [
     {
-        "name": "wine-10.17-staging-tkg-amd64",
+        "name": "wine-10.17-staging-tkg-amd64-wow64",
         "title": "Wine-Staging-TkG 10.17",
         "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.17/wine-10.17-staging-tkg-amd64-wow64.tar.xz",
         "files": {

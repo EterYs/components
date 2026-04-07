@@ -5,16 +5,12 @@
             "title": "Spritz-Wine-TkG"
         },
         {
+            "name": "spritz-wine-cachyos",
+            "title": "Spritz-Wine-CachyOS"
+        },
+        {
             "name": "wine-staging-tkg",
             "title": "Wine-Staging-TkG"
-        },
-        {
-            "name": "wine-ge-proton",
-            "title": "Wine-GE-Proton"
-        },
-        {
-            "name": "soda",
-            "title": "Soda"
         },
         {
             "name": "ge-proton",
@@ -30,11 +26,7 @@
                     "SteamAppId": 0
                 }
             }
-        },
-        {
-            "name": "lutris",
-            "title": "Lutris"
-        }
+        }        
     ],
     "dxvk": [
         {

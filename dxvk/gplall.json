@@ -1,5 +1,12 @@
 [
     {
+        "name": "dxvk-gplall-2.7.1-4",
+        "title": "2.7.1-4",
+        "version": "2.7.1-4",
+        "format": "zip",
+        "uri": "https://github.com/Digger1955/dxvk-gplasync-lowlatency/releases/download/DXVK-GPLALL-2.7.1-4/DXVK-GPLALL-GCC-WinMacLinux-SSE4.2-O3-LTO-GENERIC.2.7.1-4.zip"
+    },
+    {
         "name": "dxvk-gplall-2.7.1-2",
         "title": "2.7.1-2",
         "version": "2.7.1-2",

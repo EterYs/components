@@ -4,7 +4,7 @@
         "title": "2.6.9-1",
         "version": "2.6.9-1",
         "format": "zip",
-        "uri": "https://github.com/Digger1955/dxvk-gplall/releases/download/DXVK-GPLALL-2.6.9-1/DXVK-GPLALL-GCC-WinMacLinux-SSE4.2-O3-LTO-GENERIC.2.6.9-1.zip"
+        "uri": "https://github.com/Digger1955/dxvk-gplall/releases/download/DXVK-GPLALL-2.6.9-1/DXVK-GPLALL-GCC-WinMacLinux-SSE4.2-O3-LTO-ZEN3.2.6.9-1.zip"
     },
     {
         "name": "dxvk-gplall-2.7.1-4",
